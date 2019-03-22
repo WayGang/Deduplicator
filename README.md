@@ -1,2 +1,2 @@
 # Deduplicator
-Compressing files by deduplication.
+Deduplicate files.
